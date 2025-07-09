@@ -1,4 +1,5 @@
 parentheses --> ფრჩხილები
 qontution mark --> ბრჭყალები
 variable--> ცვლადი (ყუთი)
-value--> ღირებულება
+value-->მნიშვნელობა
+equal sign--> ტოლობის ნიშანი
