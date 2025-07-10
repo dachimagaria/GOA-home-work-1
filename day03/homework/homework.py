@@ -59,7 +59,7 @@ caRbRand= "aston martin"
 print("bmw"+"audi"+"bugati"+"lamborghini"+"aston martin")
 
 #ამისთვის არსებობს ორი ხერხი გამრავლება ან კონკატინაციის ფუნქცია
-name= "dachi"
+name= "dachi"       
 num1= 10
 print(name*num1)
 print("dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi")
@@ -67,3 +67,7 @@ print("dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"dachi"+"d
 
 
 # integer-ის და string-ის დამატება , გამოკლება და გაყოფა არ შეიძლება შედეგად კი მოქვცემს eror (bug)
+
+
+
+

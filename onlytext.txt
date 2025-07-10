@@ -2,3 +2,4 @@ parentheses --> ფრჩხილები
 qontution mark --> ბრჭყალები
 variable--> ცვლადი (ყუთი)
 value--> ღირებულება
+underscore--> ქვედა ტირე
