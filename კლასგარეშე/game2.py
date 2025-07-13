@@ -1,3 +1,4 @@
 
 
-print("dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi""dachi"+"dachi")
+str(5)
+print(str)
