@@ -235,8 +235,9 @@ def main():
     print("Would you like to restart?")
     RestartCommand = input().lower()
     if RestartCommand == "yes":
-        print()
+        print()  
         main()
+        
 
 main()
 
